@@ -9,7 +9,7 @@ I'm **Felipe Avelar** and I'm working as **Fullstack Developer @ SWORDHealth**. 
 
 - 🔭 I’m currently working on as a Fullstack Developer @ SWORDHealth
 - 🌱 I’m currently learning what I can about _DevOps_
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on *open source* projects
 - ⚡ Fun fact: I am a huge fan of _Board Games_ and _Golf Puzzles_
 
 [1]: https://img.shields.io/badge/-Felipe%20Avelar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeavelar/
