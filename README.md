@@ -7,7 +7,7 @@ I'm **Felipe Avelar** and I'm working as **Fullstack Developer @ SWORDHealth**. 
 
 [![Felipe Avelar's SO-PT stats][3]][4]
 
-- 🔭 I’m currently working on as a Fullstack Developer @ SWORDHealth
+- 🔭 I’m currently working on as a *Fullstack Developer* @ SWORDHealth
 - 🌱 I’m currently learning what I can about _DevOps_
 - 👯 I’m looking to collaborate on *open source* projects
 - ⚡ Fun fact: I am a huge fan of _Board Games_ and _Golf Puzzles_
