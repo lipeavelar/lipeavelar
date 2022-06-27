@@ -1,6 +1,6 @@
 ### <img src="./img/go.png" width="50"/> Hi there
 
-I'm **Felipe Avelar** and I'm working as **Fullstack Developer @ SWORDHealth**. Currently I'm coding in **GoLang**, but I already coded in **Python**, **Typescript**, **Java** and others.
+I'm **Felipe Avelar** and I'm working as **Fullstack Developer @ SWORDHealth**. Currently I'm coding in **Go**, but I already coded in **Python**, **Typescript**, **Java** and others.
 
 [![Linkedin: Felipe Avelar][1]][2]
 [![Mail: felipe.avelar@outlook.com][5]][6]
