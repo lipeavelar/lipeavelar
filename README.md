@@ -1,14 +1,14 @@
 ### <img src="./img/go.png" width="50"/> Hi there
 
-I'm **Felipe Avelar** and I'm working as **Software Engineer @ YAZIO**. Currently I'm coding in **Go**, but I already coded in **Python**, **Typescript**, **Java** and others.
+I'm **Felipe Avelar** and I'm working as **Senior Software Engineer @ Yazio**. Currently I'm coding in **Go**, but I already coded in **Python**, **Typescript**, **Java** and others.
 
 [![Linkedin: Felipe Avelar][1]][2]
 [![Mail: felipe.avelar@outlook.com][5]][6]
 
 [![Felipe Avelar's SO-PT stats][3]][4]
 
-- 🔭 I’m currently working on as a *Software Engineer* @ YAZIO
-- 🌱 I’m currently learning what I can about _DevOps_
+- 🔭 I’m currently working on as a *Senior Software Engineer* @ Yazio
+- 🌱 I’m currently learning what I can about _DevOps_ and _local hosting AI_
 - 👯 I’m looking to collaborate on *open source* projects
 - ⚡ Fun fact: I am a huge fan of _Board Games_ and _Golf Puzzles_
 
